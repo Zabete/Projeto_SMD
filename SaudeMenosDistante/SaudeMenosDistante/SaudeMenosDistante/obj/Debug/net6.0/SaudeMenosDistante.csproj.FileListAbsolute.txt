@@ -1,0 +1,90 @@
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.AssemblyReference.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfoInputs.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfo.cs
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.CoreCompileInputs.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.exe
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.deps.json
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.runtimeconfig.json
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\refint\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.genruntimeconfig.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\ref\SaudeMenosDistante.dll
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.exe
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.deps.json
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.runtimeconfig.json
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.AssemblyReference.cache
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfoInputs.cache
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfo.cs
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.CoreCompileInputs.cache
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\refint\SaudeMenosDistante.dll
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.genruntimeconfig.cache
+C:\Users\cesae\Downloads\SaudeMenosDistante (7)\SaudeMenosDistante (1)\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\ref\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.exe
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.deps.json
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.runtimeconfig.json
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.AssemblyReference.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfoInputs.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfo.cs
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.CoreCompileInputs.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\refint\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.genruntimeconfig.cache
+C:\Users\cesae\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\ref\SaudeMenosDistante.dll
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.exe
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.deps.json
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.runtimeconfig.json
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfoInputs.cache
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfo.cs
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\refint\SaudeMenosDistante.dll
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.genruntimeconfig.cache
+C:\Users\Manu\Desktop\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\ref\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.exe
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.deps.json
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.runtimeconfig.json
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.AssemblyReference.cache
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfoInputs.cache
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfo.cs
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.CoreCompileInputs.cache
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\refint\SaudeMenosDistante.dll
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.genruntimeconfig.cache
+C:\Users\cesae\Desktop\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\ref\SaudeMenosDistante.dll
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.exe
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.deps.json
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.runtimeconfig.json
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\bin\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.dll
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\refint\SaudeMenosDistante.dll
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.pdb
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\SaudeMenosDistante.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\Emmanuelle - SD\TrabalhoFinal Laura\SaudeMenosDistanteFimMesmoNemAcredito (2)\SaudeMenosDistanteFimMesmoNemAcredito\SaudeMenosDistante\SaudeMenosDistante\obj\Debug\net6.0\ref\SaudeMenosDistante.dll
