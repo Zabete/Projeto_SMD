@@ -1,5 +1,8 @@
 # Projeto_SMD
 
+Projeto elaborado em grupo para a avaliação dos módulos: *"Engenharia de software"*, *"Programação - Algoritmos"*, *"Programação de computadores - estruturada"*, *"Programação de computadores - orientada a objetos"* do curso **Software Developer**.
+
+**Objetivo:**
 Criar uma aplicação para computador para um projeto de saúde chamado “Saúde Menos Distante” onde se vai registar informação de saúde das pessoas e avaliar o risco cardiovascular das populações.
 
 As equipas deste projeto são constituídas por médicos, enfermeiros, motoristas e administrativos e irão deslocar-se a vários concelhos.
@@ -11,7 +14,6 @@ A cada equipa é entregue um conjunto de equipamentos para que possam executar a
 A aplicação deve ser capaz de gerir a atividade das diferentes equipas de consultas comunitárias.
 
 **A aplicação deve evidenciar as seguintes funcionalidades:**
-
 * Gerar um relatório de colaboradores apresentando o seu nome e vencimento com agrupamento pela respetiva equipa;
 
 * Gerar um relatório resumo que apresente os dados estatísticos gerais das consultas efetuadas por zona do país (e.g. número de consultas total, número de consultas da última semana, número de consultas do último dia); 
